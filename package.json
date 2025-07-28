@@ -1,0 +1,23 @@
+{
+  "name": "teste-ui",
+  "version": "1.0.0",
+  "description": "Este repositório é dedicado  ao exercício de módulo 11 do curso de Engenharia de Qualidade da EBAC\r Aqui terão testes automatizados com Cypress da plataforma http://lojaebac.ebaconline.art.br/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccaiolsa/Teste-UI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccaiolsa/Teste-UI/issues"
+  },
+  "homepage": "https://github.com/ccaiolsa/Teste-UI#readme",
+  "dependencies": {
+    "cypress": "^13.6.0"
+  }
+}
