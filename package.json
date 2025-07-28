@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ccaiolsa/Teste-UI#readme",
   "dependencies": {
+    "@faker-js/faker": "^9.9.0",
     "cypress": "^13.6.0"
   }
 }
