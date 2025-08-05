@@ -1,0 +1,29 @@
+[
+    {
+        "nome":"Aero Daily Fitness Tee",
+        "tamanho":"XS",
+        "cor":"Black",
+        "quantidade": 2
+    },
+
+    {
+        "nome":"Ariel Roll Sleeve Sweatshirt",
+        "tamanho":"XS",
+        "cor":"Red",
+        "quantidade": 1
+    },
+
+    {
+        "nome":"Atlas Fitness Tank",
+        "tamanho":"L",
+        "cor":"Blue",
+        "quantidade": 3
+    },
+
+    {
+        "nome":"Geo Insulated Jogging Pant",
+        "tamanho":"33",
+        "cor":"Green",
+        "quantidade": 5
+    }
+]

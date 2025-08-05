@@ -9,8 +9,17 @@
 // ***********************************************
 //
 //
-// -- This is a parent command --
-// Cypress.Commands.add('login', (email, password) => { ... })
+
+Cypress.Commands.add('comandoLogin', (email, password) => {
+    cy.get('#reg_email').type(email)
+    cy.get('#reg_password').type(password, {log: false})
+    cy.get(':nth-child(4) > .button').click()
+})
+
+Cypress.Commands.add('fazerLogin', (email, senha) =>{
+    cy.get('#username').type(email)
+    cy.get('#password').type(senha)
+})
 //
 //
 // -- This is a child command --
